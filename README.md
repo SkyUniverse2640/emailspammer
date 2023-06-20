@@ -33,4 +33,3 @@ node .
 Thanks for using or contribute to this useless program lol, this is my first project of Javascript Runtime
 So, if you have feedback or suggestion or maybe a question you can visit my website below
 [Visit here]("https://skyuniverse.tech")
-# emailspammer

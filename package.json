@@ -1,0 +1,15 @@
+{
+  "name": "javascript-email-spammer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "send.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.9.3",
+    "prompt-sync": "^4.2.0"
+  }
+}
